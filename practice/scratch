@@ -1,0 +1,4 @@
+<?php var_dump($countries[0]); ?>
+
+
+<?php var_dump($countries[0]["code"]); ?>
